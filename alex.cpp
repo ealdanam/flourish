@@ -1,12 +1,14 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
+int main()
+{
 
-  cout<<"hello world";
+  cout << "hello world";
 
-  for(int i=0; i<=40;i++){
-    cout<<i<<endl;
-    
+  for (int i = 0; i <= 40; i++)
+  {
+    cout << i << endl;
   }
-	return 0;
+  // hello world
+  return 0;
 }
